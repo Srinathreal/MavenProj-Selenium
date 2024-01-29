@@ -17,7 +17,7 @@ import objectRespository.MyAccountPage;
 import objectRespository.MyAccountPageusingPageFactory;
 
 public class LoginTest {
-//Updated by Srinath
+//Changes made
 	WebDriver driver;
 
 	@Test
